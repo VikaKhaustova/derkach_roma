@@ -10,7 +10,7 @@ header {
     height: 100px;
     margin-top: 70px;
     width: 100%;
-    background-image: url(https://i.ibb.co/WFY5vtg/Rectangle-7-1.png);
+    background-image: url(folder/10.png);
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -94,7 +94,7 @@ main{
     flex-wrap: wrap;
 }
 .call-butt{
-    background-image: url(https://i.ibb.co/9qWrWhf/Rectangle-15.png);
+    background-image: url(folder/11.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-style: normal;
@@ -114,7 +114,7 @@ main{
     transition: 0.5s ease-out;
 }
 .menu-butt{
-    background-image: url(https://i.ibb.co/9qWrWhf/Rectangle-15.png);
+    background-image: url(folder/11.png);
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
@@ -265,7 +265,7 @@ main{
 .about-div{
     width: 100%;
     height: 90%;
-    background-image: url(https://i.ibb.co/6RMvhMH/Rectangle-18.png);
+    background-image: url(folder/12.png);
     background-size: cover;  
 }
 .about-div p{
