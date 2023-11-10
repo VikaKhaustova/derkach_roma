@@ -150,7 +150,6 @@ main{
 .menu{
     position: relative;
     width: 100%;
-    height: 40%;
     left: 0px;
     top:0;
 }
@@ -202,10 +201,8 @@ main{
 
 .sale{
 
-    margin-top: 200px;
     width: 100%;
-    height: 407px;
-   
+
 }
 
 .sale h2{
